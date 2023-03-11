@@ -50,6 +50,11 @@
         0,
         0
       ],
+      "scale": [
+        3,
+        3,
+        3
+      ],
       "physics": true,
       "start_url": "https://aureliostime.github.io/AlbumGallery/Gallery-v1"
     }
